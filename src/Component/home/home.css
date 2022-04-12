@@ -1,0 +1,144 @@
+.home {
+    font-family: 'Inter', sans-serif;
+    margin: 42px 32px;
+}
+
+p .hello {
+    font-weight: 600;
+    line-height: 5px;
+}
+
+h1 {
+    font-weight: 800;
+    line-height: 10px;
+}
+
+h3, h5 {
+    display: inline-block;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+h5 {
+    color: #6836CD;
+    float: right;
+    font-size: 18px;
+    line-height: 36px;
+    font-weight: 400;
+}
+
+.banner {
+    margin: 30px 0;
+}
+
+.banner img {
+    border-radius: 15px;
+    height: 200px;
+}
+
+.feature-box {
+    margin: 15px 0 40px 0;
+    height: 105px;
+    width: 80px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.FCDDFF {
+    background-color: #FCDDFF;
+}
+
+.DDE4FF {
+    background-color: #DDE4FF;
+}
+
+.D9E4F9 {
+    background-color: #D9E4F9;
+}
+
+.FDF5D3 {
+    background-color: #FDF5D3;
+}
+
+.feature-box h6 {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.img-icon {
+    margin: 8px auto;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    vertical-align: center;
+}
+
+.icon {
+    margin-top: 25%;
+}
+
+.profile {
+    border-radius: 10px;
+    display: inline-block;
+    float: right;
+}
+
+.welcome {
+    display: inline-block;
+}
+
+.recent-activity{
+    padding: 10px;
+    background-color: #FDFAFD;
+    height: 100px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.illustration {
+    width: 60px;
+    height: 60px;
+    background-color: #CEEBDF;
+    border-radius: 15px;
+}
+
+.illustration img {
+    margin: 5px;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+.desc {
+    color: #A7A8B1;
+}
+
+.harga {
+    color: #21B06E;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.date {
+    color: #A7A8B1;
+    font-size: 12px;
+    line-height: 10px;
+}
+
+.harga, .date {
+    text-align: right;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
